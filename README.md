@@ -8,7 +8,7 @@ A precision-built ChatGPT system prompt designed to review and optimise marketin
 
 This prompt enables ChatGPT to:
 
-- Evaluate your CX asset against usability and design principles  
+- Evaluate your asset against usability and design principles  
 - Score performance across key marketing and design criteria  
 - Assess alignment with personas  
 - Apply tone, language, and accessibility best practices  
@@ -32,8 +32,8 @@ This prompt enables ChatGPT to:
 1. Open [ChatGPT](https://chat.openai.com/)  
 2. Click your name → `Explore GPTs` → `Create a GPT`  
 3. In the GPT builder:  
-   - Under **Instructions**, paste the entire CX Strategy Module prompt  
-   - Name your GPT (e.g. “CX Reviewer”)  
+   - Under **Instructions**, paste the entire prompt  
+   - Name your GPT (e.g. “Asset Reviewer”)  
    - Set behaviour to always respond in **markdown**  
    - Set temperature to `0.3` for consistency  
 4. Save and start reviewing assets via this custom GPT
@@ -43,7 +43,7 @@ This prompt enables ChatGPT to:
 ### Option 2: ChatGPT Projects
 
 1. Open Projects
-2. Paste the full CX Strategy Module prompt into Instructions
+2. Paste the full Asset Review Module prompt into Instructions
 3. Use the invocation format shown below
 
 ---
@@ -51,7 +51,7 @@ This prompt enables ChatGPT to:
 ## 🧪 Example Usage
 
 ```
-Review this email using the CX Module.  
+Review this email using the Asset Review module.  
 The brand is Consoto, and the audience is US / Experienced Industrial Operators.
 ```
 
@@ -63,7 +63,7 @@ Each review response will include:
 
 | Section                   | Description                                                           |
 |---------------------------|------------------------------------------------------------------------|
-| Summary                   | High-level review and CX overview                                     |
+| Summary                   | High-level review                                   |
 | Persona Match & Score     | How well the asset aligns to the audience profile and mindset         |
 | UX / UI Review & Score    | Review of layout, readability, navigation, accessibility              |
 | Optimisation Readiness    | Lifecycle stage targeting, CTA clarity, message flow                  |
@@ -92,7 +92,7 @@ Simply specify the region in your invocation to apply tone and grammar localisat
 
 ## 📁 Files Included
 
-- `cx-strategy-module.md` – Full CX review prompt (structured markdown)
+- `Asset-review-module.md` – Full Asset Review prompt (structured markdown)
 - `README.md` – This usage guide
 
 ---
