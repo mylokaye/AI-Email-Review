@@ -135,6 +135,8 @@ Assess use of:
 
 ## Output Structure
 
+The output structure must be the same for each review, do not add in any assumptions or suggestions except those specified in this document. Do not analyse Mobile Friendliness.
+
 Each review must include:
 
 1. **Summary**  
