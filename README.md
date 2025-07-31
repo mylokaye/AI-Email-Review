@@ -10,7 +10,7 @@ This prompt enables ChatGPT to:
 
 - Evaluate your CX asset against usability and design principles  
 - Score performance across key marketing and design criteria  
-- Assess alignment with industrial B2B personas  
+- Assess alignment with personas  
 - Apply tone, language, and accessibility best practices  
 - Compare campaign performance across versions  
 - Deliver a **consistent review structure** every time
@@ -21,7 +21,7 @@ This prompt enables ChatGPT to:
 
 - Marketeers & UX / UI Designers
 - Teams working across multi-brand, multi-region customer experiences  
-- Anyone using ChatGPT to accelerate **CX performance analysis**
+- Anyone using ChatGPT to accelerate **Asset performance analysis**
 
 ---
 
