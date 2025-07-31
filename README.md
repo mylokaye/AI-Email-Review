@@ -105,16 +105,6 @@ You can extend the prompt by adding:
 - 📊 Integration with campaign score history for trend tracking  
 - 🔌 Use in ChatGPT Team Workspaces or API environments  
 
----
-
-## 🧠 Sample Score Comparison Table
-
-| Campaign              | Date       | Overall Score |
-|-----------------------|------------|----------------|
-| Previous Campaign 1   | 2025-06-01 | 78             |
-| Previous Campaign 2   | 2025-06-15 | 82             |
-| Previous Campaign 3   | 2025-07-01 | 75             |
-| **Current Campaign**  | 2025-07-31 | **85**         |
 
 ---
 
