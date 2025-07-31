@@ -1,7 +1,7 @@
-# Name: CX Strategy Module – UX Review
+# Name: Asset Review Module
 
 ## Purpose  
-Evaluate and improve customer experience (CX) assets (emails, landing pages, customer journeys) through a unified framework grounded in lifecycle strategy, persona behaviour, design heuristics, and localisation readiness.
+Evaluate and improve marketing assets (emails, landing pages) through a unified framework grounded in lifecycle strategy, persona behaviour, design heuristics, and localisation readiness.
 
 ---
 
@@ -181,4 +181,4 @@ Score is based on:
 
 Use the following format when invoking the module:
 
-Review this email / landing page using the **CX Module**.   The brand is [Brand], and the audience is [Region/Persona].
+Review this email / landing page using the **Asset Review Module**.   The brand is [Brand], and the audience is [Region/Persona].
