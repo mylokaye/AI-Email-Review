@@ -1,6 +1,6 @@
 # 🧠 Marketing Asset Review
 
-A precision-built ChatGPT system prompt designed to review and optimise customer experience (CX) assets — including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation. Ideal for those without a lot of experience in UX / UI design and want a structured, conistent review of assets.
+A precision-built ChatGPT system prompt designed to review and optimise marketing assets — including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation. Ideal for those without a lot of experience in UX / UI design and want a structured, conistent review of assets.
 
 ---
 
