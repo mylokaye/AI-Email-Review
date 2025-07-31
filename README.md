@@ -1,6 +1,6 @@
-# 🧠 CX Strategy Module – UX Review Prompt
+# 🧠 Marketing Asset Review
 
-A precision-built ChatGPT system prompt designed to review and optimise customer experience (CX) assets — including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation. Ideal for industrial B2B marketing teams working across global regions.
+A precision-built ChatGPT system prompt designed to review and optimise customer experience (CX) assets — including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation. Ideal for those without a lot of experience in UX / UI design and want a structured, conistent review of assets.
 
 ---
 
@@ -19,9 +19,7 @@ This prompt enables ChatGPT to:
 
 ## 🧑‍💼 Who It's For
 
-- CRM & Marketing Automation Managers  
-- UX Designers in B2B or industrial markets  
-- Marketing Ops and Digital Strategy Leads  
+- Marketeers & UX / UI Designers
 - Teams working across multi-brand, multi-region customer experiences  
 - Anyone using ChatGPT to accelerate **CX performance analysis**
 
@@ -42,10 +40,10 @@ This prompt enables ChatGPT to:
 
 ---
 
-### Option 2: Manual Prompt Injection (Free or Pro Plans)
+### Option 2: ChatGPT Projects
 
-1. Open a new chat in ChatGPT  
-2. Paste the full CX Strategy Module prompt into the first message  
+1. Open Projects
+2. Paste the full CX Strategy Module prompt into Instructions
 3. Use the invocation format shown below
 
 ---
@@ -54,7 +52,7 @@ This prompt enables ChatGPT to:
 
 ```
 Review this email using the CX Module.  
-The brand is Wheelabrator, and the audience is US / Experienced Industrial Operators.
+The brand is Consoto, and the audience is US / Experienced Industrial Operators.
 ```
 
 ---
@@ -131,4 +129,4 @@ Pull requests and persona expansions welcome.
 ## 🧾 License
 
 MIT License  
-Use freely. Attribution appreciated if adapted for commercial use.
+Use freely. Attribution appreciated.
