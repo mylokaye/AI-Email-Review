@@ -4,6 +4,7 @@ A precision-built prompt for Copilot Studio Agents or ChatGPT designed to review
 
 Ideal for those who are time poor and want to benchmark their work with a  structured, conistent review of assets.
 
+(The prompt is too long to use in a normal chat, so creating in a Project or Agent is neccesary.)
 ---
 
 ## 📌 What It Does
@@ -96,7 +97,7 @@ Simply specify the region in your invocation to apply tone and grammar localisat
 
 ## 📁 Files Included
 
-- `Asset-review-module.md` – Full Asset Review prompt (structured markdown)
+- `Prompt.md` – Full Asset Review prompt (structured markdown)
 - `README.md` – This usage guide
 
 ---
