@@ -1,14 +1,16 @@
 # 🧠 Marketing Asset Review
 
-A precision-built ChatGPT system prompt designed to review and optimise marketing assets — including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation. Ideal for those without a lot of experience in UX / UI design and want a structured, conistent review of assets.
+A precision-built prompt designed to review and optimise marketing assets - including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation.
+
+Ideal for those whonare time poor and want to benchmark their work with a  structured, conistent review of assets.
 
 ---
 
 ## 📌 What It Does
 
-This prompt enables ChatGPT to:
+This prompt enables ChatGPT / Copilot and other GPT's to:
 
-- Evaluate your asset against usability and design principles  
+- Evaluate assets against usability and design principles  
 - Score performance across key marketing and design criteria  
 - Assess alignment with personas  
 - Apply tone, language, and accessibility best practices  
@@ -19,13 +21,15 @@ This prompt enables ChatGPT to:
 
 ## 🧑‍💼 Who It's For
 
-- Marketeers & UX / UI Designers
-- Teams working across multi-brand, multi-region customer experiences  
-- Anyone using ChatGPT to accelerate **Asset performance analysis**
+- Marketeers & UX / UI Designers / Content creators
+- Time poor marketeers  
+- Anyone using ChatGPT to accelerate 
 
 ---
 
-## ⚙️ How to Use This Prompt in ChatGPT Projects
+## ⚙️ How to Use This Prompt
+
+This prompt has been tested in ChatGPT Projects and as an Agent in Copilot Studio
 
 ### Option 1: Use as a Custom GPT (Team/Enterprise)
 
