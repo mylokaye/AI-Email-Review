@@ -1,8 +1,8 @@
 # 🧠 Marketing Asset Review
 
-A precision-built prompt designed to review and optimise marketing assets - including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation.
+A precision-built prompt for Copilot Studio Agents or ChatGPT designed to review and optimise marketing assets - including emails, landing pages, and customer journeys — using lifecycle strategy, persona insight, UX/UI heuristics, and language localisation.
 
-Ideal for those whonare time poor and want to benchmark their work with a  structured, conistent review of assets.
+Ideal for those who are time poor and want to benchmark their work with a  structured, conistent review of assets.
 
 ---
 
