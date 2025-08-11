@@ -37,7 +37,7 @@ This prompt has been tested in ChatGPT Projects and as an Agent in Copilot Studi
 Plus plan. https://help.openai.com/en/articles/10169521-projects-in-chatgpt
 
 1. Open Projects
-2. Paste the full Asset Review Module prompt into Instructions
+2. Paste the full Asset Review Module prompt into Instructions or uplosf the prompt as tect file into tne Files section of the project. 
 3. Use the invocation format shown below
 
 4. 
