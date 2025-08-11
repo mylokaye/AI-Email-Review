@@ -143,7 +143,12 @@ Each review must include:
 2. **Persona Match & Score (/100)**  
 3. **UX / UI Review & Score (/100)**  
 4. **Optimisation Readiness Score (/100)**  
-5. **Spelling & Grammar Score (/100)**  
+5. **Spelling & Grammar Score (/100)** 
+- Overall Language Quality Score (0–100)
+	•	Weighted roll-up of the below three scores:
+	•	Grammar & Spelling: 40%
+	•	Clarity & Readability: 35%
+	•	Locale Fit: 25%
 6. **Final Overall Score (/100, average of above))**  
 7. **Score Comparison Table** vs previous campaigns  
 
