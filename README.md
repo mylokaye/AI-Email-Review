@@ -32,7 +32,16 @@ This prompt enables ChatGPT / Copilot and other GPT's to:
 
 This prompt has been tested in ChatGPT Projects and as an Agent in Copilot Studio
 
-### Option 1: Use as a Custom GPT (Team/Enterprise)
+
+### Option 1: ChatGPT Projects
+Plus plan. https://help.openai.com/en/articles/10169521-projects-in-chatgpt
+
+1. Open Projects
+2. Paste the full Asset Review Module prompt into Instructions
+3. Use the invocation format shown below
+
+4. 
+### Option 2: Use as a Custom GPT (Team/Enterprise)
 
 1. Open [ChatGPT](https://chat.openai.com/)  
 2. Click your name → `Explore GPTs` → `Create a GPT`  
@@ -45,11 +54,7 @@ This prompt has been tested in ChatGPT Projects and as an Agent in Copilot Studi
 
 ---
 
-### Option 2: ChatGPT Projects
 
-1. Open Projects
-2. Paste the full Asset Review Module prompt into Instructions
-3. Use the invocation format shown below
 
 ---
 
