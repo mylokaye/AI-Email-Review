@@ -37,7 +37,7 @@ This prompt has been tested in ChatGPT Projects and as an Agent in Copilot Studi
 Plus plan. https://help.openai.com/en/articles/10169521-projects-in-chatgpt
 
 1. Open Projects
-2. Paste the full Asset Review Module prompt into Instructions or upload the prompt as text file into tne Files section of the project. 
+2. Upload the prompt as text file into the Files section of the project. 
 3. Use the invocation format shown below
 
 ### Option 2: Use as a Custom GPT (Team/Enterprise)
@@ -50,10 +50,6 @@ Plus plan. https://help.openai.com/en/articles/10169521-projects-in-chatgpt
    - Set behaviour to always respond in **markdown**  
    - Set temperature to `0.3` for consistency  
 4. Save and start reviewing assets via this custom GPT
-
----
-
-
 
 ---
 
